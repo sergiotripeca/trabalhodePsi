@@ -1,0 +1,21 @@
+﻿#batata
+{
+  box-sizing: border-box;
+  width: 300px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size:1em;
+}
+
+.blue{
+
+	  color:  green;
+
+}
+
+#tut
+{
+      background-color: coral;
+}
